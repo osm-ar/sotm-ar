@@ -1,0 +1,51 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  width: 80%;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.event {
+  border-radius: 10px;
+  -webkit-box-shadow: 0px 0px 15px 5px rgba(0, 0, 0, 0.4);
+  -moz-box-shadow: 0px 0px 15px 5px rgba(0, 0, 0, 0.4);
+  box-shadow: 0px 0px 15px 5px rgba(0, 0, 0, 0.4);
+  padding: 10px;
+  margin-top: 25px;
+  color: white;
+  text-decoration: none;
+  display: inline-flex;
+}
+
+.logo {
+  margin: auto 0;
+}
+
+.text {
+  margin: auto 0 auto 30px;
+}
+
+.bg-2020 {
+    background-image: url("img/2020.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.bg-2019 {
+  background-image: url("img/2019.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.bg-2017 {
+  background-image: url("img/2017.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
