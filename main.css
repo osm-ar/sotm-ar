@@ -50,3 +50,8 @@
 .bg-2014 {
   background-image: url("img/2014.jpg");
 }
+
+.event .bg .bg-2014 {
+  color: white;
+  text-shadow: 1px 1px 2px black;
+}
