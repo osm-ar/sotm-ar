@@ -29,23 +29,24 @@
   margin: auto 0 auto 30px;
 }
 
+.bg {
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
 .bg-2020 {
-    background-image: url("img/2020.jpg");
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
+  background-image: url("img/2020.jpg");
 }
 
 .bg-2019 {
   background-image: url("img/2019.jpg");
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
 }
 
 .bg-2017 {
   background-image: url("img/2017.jpg");
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
+}
+
+.bg-2014 {
+  background-image: url("img/2014.jpg");
 }
